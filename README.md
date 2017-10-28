@@ -33,3 +33,4 @@ Automatically backup files to your Google Drive account periodically.
 **To-Do:**
  - Add support for uploading contents of a folder recursively without archiving.
  - ~~Add support for uploading a file only if it is has been modified. (By comparing hashes)~~
+ - Hell
